@@ -10,7 +10,7 @@ This project works on Company Bankruptcy Prediction dataset  to create predictio
 ## Steps
 1. Data Preparation
 2. Exploratory Data Analysis (EDA)
-![Heat map](ima/Figure_1.png)
+![Heat map](ima/Figure_1.1.png)
 3. Random Forest Modeling
 3.1. Baseline Model
 3.2 Model With Undersampling
